@@ -5,6 +5,6 @@ Yandex Weather API was choosen as a source of the Weather data
 * Update program with your API key(get it here: https://developer.tech.yandex.ru/services/) and lat/lon for your location
 * Deploy app to Raspberry PI(https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp) or any other location (AWS,Azure, etc..)
 * Run node as folows: node informer.js
-* Configure your Polycom phone to show informer page while idle
+* Configure your Polycom phone to show informer page while idle. You can also configure soft keys to open weather page as descibed here: https://community.polycom.com/t5/VoIP-SIP-Phones/FAQ-Using-Enhanced-Feature-Keys-EFK-macros-to-change-softkey/td-p/6544
 
 
